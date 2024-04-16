@@ -1,1 +1,2 @@
 # MonochromeMagic
+The "Monochrome Magic" application is a C program designed to convert 24-bit color bitmap (BMP) images into monochrome format. It achieves this by reading the pixel data of an input BMP file, averaging the RGB values to produce grayscale pixels, and then writing the transformed image data to a new BMP file. This program demonstrates basic image processing techniques and file I/O operations in C, providing a practical example of how to manipulate bitmap images programmatically.
